@@ -9,12 +9,11 @@ public class Calculator{
       return a + b;
     }
 
-<<<<<<< HEAD
-    public static int minus(int a, int b){
-      return a - b;
-=======
     public static int tripleSum(int a, int b, int c){
        return a+b+c;
->>>>>>> ver1
+    }
+
+    public static int minus(int a, int b){
+      return a-b;
     }
 }
