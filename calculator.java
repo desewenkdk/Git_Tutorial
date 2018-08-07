@@ -12,4 +12,8 @@ public class Calculator{
     public static int tripleSum(int a, int b, int c){
        return a+b+c;
     }
+
+    public static int zero(){
+       return 0;
+    }
 }
