@@ -1,0 +1,7 @@
+# compiled files
+.class
+
+# zipped files
+.tar
+.war
+.jar
