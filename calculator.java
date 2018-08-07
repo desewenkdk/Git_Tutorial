@@ -5,7 +5,11 @@ public class Calculator{
         System.out.println("Hello world")
     }
 
-    public int sum(int a, int b){
+    public static int sum(int a, int b){
       return a + b;
+    }
+
+    public static int tripleSum(int a, int b, int c){
+       return a+b+c;
     }
 }
